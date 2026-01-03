@@ -15,3 +15,7 @@
 // },4000)
 
 // clearInterval(a)
+
+// function close(){
+//     window.close()
+// }
